@@ -1,3 +1,9 @@
+### custom rules
+
+*.pdf
+
+### github default tex ignore
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
